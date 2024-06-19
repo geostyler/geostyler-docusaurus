@@ -74,6 +74,10 @@ const config = {
             ]
           },
           {
+            label: 'Demo',
+            href: 'https://geostyler.github.io/geostyler-demo/'
+          },
+          {
             type: 'doc',
             docId: 'beginner-workshop/README',
             position: 'left',
