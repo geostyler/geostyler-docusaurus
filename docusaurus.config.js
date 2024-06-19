@@ -55,15 +55,31 @@ const config = {
         title: 'GeoStyler',
         logo: {
           alt: 'GeoStyler logo',
-          src: 'img/geostyler-logo-full-white-halo.svg',
+          src: 'img/geostyler-globe.svg',
         },
         items: [
+          {
+            type: 'dropdown',
+            label: 'Documentation',
+            position: 'left',
+            items: [
+              {
+                label: 'Components',
+                href: 'https://geostyler.github.io/geostyler/latest/index.html',
+              },
+              {
+                label: 'GeoStyler Style',
+                href: 'https://geostyler.github.io/geostyler-style/docs/master/',
+              }
+            ]
+          },
           {
             type: 'doc',
             docId: 'beginner-workshop/README',
             position: 'left',
-            label: 'Tutorial',
-          }
+            label: 'Tutorials',
+          },
+          {to: 'about', label: 'About', position: 'left'},
         ],
       },
       footer: {
