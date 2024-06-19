@@ -71,4 +71,4 @@ export default App;
 The application should now look like this:
 
 
-[![PreviewMap Component](/img/previewMap.png)](/img/previewMap.png)
+[![PreviewMap Component](./previewMap.png)](./previewMap.png)

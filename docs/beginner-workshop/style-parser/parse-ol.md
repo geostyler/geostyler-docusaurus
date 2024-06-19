@@ -128,7 +128,7 @@ export default App;
 
 ```
 
-[![Read and written OpenLayers style](/img/ol-parsed.png)](/img/ol-parsed.png)
+[![Read and written OpenLayers style](./ol-parsed.png)](./ol-parsed.png)
 
 The first section shows the original OpenLayers style. The second section shows the parsed OpenLayers style as GeoStyler style. The third
 section shows the written OpenLayers style.

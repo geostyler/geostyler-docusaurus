@@ -42,7 +42,7 @@ export default App;
 
 Afterwards you should be able to see the `Style` component and you should be able to edit styles.
 
-[![Style Component](/img/basic.png)](/img/basic.png)
+[![Style Component](./basic.png)](./basic.png)
 
 Through the `compact` property, we are able to use the tabular layout of the `Style` component. To do so, we just have to
 set the property `compact` to `true`.
@@ -55,4 +55,4 @@ set the property `compact` to `true`.
 
 Your application should now look as follows:
 
-[![Compact Layout](/img/compact.png)](/img/compact.png)
+[![Compact Layout](./compact.png)](./compact.png)

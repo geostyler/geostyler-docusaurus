@@ -60,9 +60,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'beginner-workshop/summary/summary',
+            docId: 'beginner-workshop/README',
             position: 'left',
-            label: 'Beginner Tutorial',
+            label: 'Tutorial',
           }
         ],
       },

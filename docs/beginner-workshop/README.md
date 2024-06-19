@@ -8,15 +8,15 @@ In this workshop, we will create a basic application that allows users to style 
 
 The final application will look like this:
 
-[![Final application](/img/geostyler-workshop.gif)](/img/geostyler-workshop.gif)
+[![Final application](./geostyler-workshop.gif)](./geostyler-workshop.gif)
 
 ## Overview
 
 In this workshop we will get to know the three core elements of GeoStyler. No previous knowledge regarding GeoStyler is needed.
 
-- [Style Parsers](#style-parsers-readme) - Translator entities that allow the usage of (nearly) any styling format
-- [UI Components](#ui-components-readme) - Graphical components to interactively edit styles
-- [Data Parsers](#data-parsers-readme) - Translator entities that allow the usage of geodata
+- [Style Parsers](./style-parser/) - Translator entities that allow the usage of (nearly) any styling format
+- [UI Components](./edit-ui/) - Graphical components to interactively edit styles
+- [Data Parsers](./data-parser/) - Translator entities that allow the usage of geodata
 
 Every section is based on the results of the previous ones. So it makes sense to go through the workshop from start
 to end, if you do this workshop for the first time.

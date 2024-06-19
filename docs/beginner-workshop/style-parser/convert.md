@@ -127,7 +127,7 @@ function App() {
 export default App;
 ```
 
-[![To SLD converted OpenLayers style](/img/converted.png)](/img/converted.png)
+[![To SLD converted OpenLayers style](./converted.png)](./converted.png)
 
 The first section shows the original OpenLayers style. The second section the parsed OpenLayers style as GeoStyler style. The third section shows
 the written SLD style.

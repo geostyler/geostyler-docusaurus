@@ -103,4 +103,4 @@ export default App;
 By that, we activated data dependent features, such as classifications. The application should now look as follows
 (notice the enabled `Classification` button):
 
-[![Attributive Styling. We already created a classification here.](/img/attributive.png)](/img/attributive.png)
+[![Attributive Styling. We already created a classification here.](./attributive.png)](./attributive.png)

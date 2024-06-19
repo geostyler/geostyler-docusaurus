@@ -170,4 +170,4 @@ export default App;
 
 The style defined in the variable `olStyle` will now be displayed directly in the `Style` component of our application, on startup.
 
-[![The OpenLayers style will be displayed directly in the GeoStyler UI.](/img/parser-to-ui.png)](/img/parser-to-ui.png)
+[![The OpenLayers style will be displayed directly in the GeoStyler UI.](./parser-to-ui.png)](./parser-to-ui.png)

@@ -4,6 +4,6 @@ In this chapter, we will explain how to use the different Style Parsers, in orde
 between different styling formats. Since all Style Parsers have a common interface, it does not
 matter which parser is being used. The required steps and method names are always the same.
 
-- [Parsing SLD](#parsing-sld)
-- [Parsing an OpenLayers Style](#parsing-an-openlayers-style)
-- [Converting Styles](#converting-styles)
+- [Parsing SLD](./parse-sld)
+- [Parsing an OpenLayers Style](./parse-ol)
+- [Converting Styles](./convert)

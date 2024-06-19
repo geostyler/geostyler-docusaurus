@@ -133,7 +133,7 @@ export default App;
 
 Your application should now look as follows:
 
-[![Read and written SLD](/img/sld-parsed.png)](/img/sld-parsed.png)
+[![Read and written SLD](./sld-parsed.png)](./sld-parsed.png)
 
 The first section shows the original SLD. The second section shows the read SLD in the GeoStyler format. The third section
 shows the written SLD.

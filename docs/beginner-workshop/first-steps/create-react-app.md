@@ -29,7 +29,7 @@ npm start
 You should now be able to see the application on [http://localhost:3000](http://localhost:3000) in your browser.
 It should look like this:
 
-[![](/img/cra-startpage.png)](/img/cra-startpage.png)
+[![](./cra-startpage.png)](./cra-startpage.png)
 
 Next, we remove the existing code, so we can start with an empty application. To do so, simply replace
 the content of `src/App.js` with following code:
