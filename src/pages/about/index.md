@@ -12,7 +12,7 @@ here to help.
 One key project of the ecosystem is the React Library providing developers with widgets and 
 tools to build powerful and flexible UIs to style geodata over the web. To get an idea of 
 its features and capabilities you can have a look at the [Demo Application](https://geostyler.github.io/geostyler-demo/) or dive into the [Source Code](https://github.com/geostyler/geostyler-demo). If you want to learn how to build your own custom map styling applications 
-be sure to look into the [tutorials](/#tutorials) and the [documentation](https://geostyler.github.io/geostyler/latest/index.html).
+be sure to look into the [beginner tutorials](/beginner-workshop) and the [documentation](https://geostyler.github.io/geostyler/latest/index.html).
 
 ### Style Parsers and Transformations
 
