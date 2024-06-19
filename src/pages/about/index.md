@@ -12,7 +12,7 @@ here to help.
 One key project of the ecosystem is the React Library providing developers with widgets and 
 tools to build powerful and flexible UIs to style geodata over the web. To get an idea of 
 its features and capabilities you can have a look at the [Demo Application](https://geostyler.github.io/geostyler-demo/) or dive into the [Source Code](https://github.com/geostyler/geostyler-demo). If you want to learn how to build your own custom map styling applications 
-be sure to look into the [beginner tutorials](/beginner-workshop) and the [documentation](https://geostyler.github.io/geostyler/latest/index.html).
+be sure to look into the [beginner tutorials](/docs/beginner-workshop/) and the [documentation](https://geostyler.github.io/geostyler/latest/index.html).
 
 ### Style Parsers and Transformations
 
@@ -20,7 +20,7 @@ GeoStyler supports multiple style formats used in the open source geospatial eco
 QML from QGIS, Mapbox JSON used in MapLibre, OpenLayers Styling Format and the OGC-standardized 
 SLD format used by Geoserver. Each of those can be transformed into one of the others. Each style parser is provided as seperate Github 
 repository and NPM package. You can get an overview of the available style parsers and 
-links [here](/parsers). Be aware that not every styling capability of a particular style 
+links [here](/parsers/). Be aware that not every styling capability of a particular style 
 is supported. Luckily, GeoStyler is open source and it is easy to contribute and get 
 involved in the community. Styles can either be transformed using JavaScript in your application 
 or with the GeoStyler command-line interface (CLI). 
