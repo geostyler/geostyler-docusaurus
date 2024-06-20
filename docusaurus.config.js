@@ -61,7 +61,7 @@ const config = {
           {
             type: 'dropdown',
             label: 'Documentation',
-            position: 'left',
+            position: 'right',
             items: [
               {
                 label: 'Components',
@@ -75,15 +75,16 @@ const config = {
           },
           {
             label: 'Demo',
-            href: 'https://geostyler.github.io/geostyler-demo/'
+            href: 'https://geostyler.github.io/geostyler-demo/',
+            position: 'right',
           },
           {
             type: 'doc',
             docId: 'beginner-workshop/README',
-            position: 'left',
+            position: 'right',
             label: 'Tutorials',
           },
-          {to: 'about', label: 'About', position: 'left'},
+          {to: 'about', label: 'About', position: 'right'},
         ],
       },
       footer: {
@@ -102,7 +103,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} GeoStyler Community. Built with Docusaurus.`,
       },
       prism: {
-        theme: prismThemes.duotoneLight
+        theme: prismThemes.github
       },
       colorMode: {
         defaultMode: 'light',
