@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { CardStyle, GeoStylerContext } from "geostyler";
 import { Style } from "geostyler-style";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 const CardStyleExample = () => {
   const myContext = {};
@@ -20,8 +19,6 @@ const CardStyleExample = () => {
       },
     ],
   });
-
-  const { siteConfig } = useDocusaurusContext();
 
   return (
     <GeoStylerContext.Provider value={myContext}>
