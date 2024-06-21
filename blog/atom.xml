@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog</id>
+    <title>GeoStyler Blog</title>
+    <updated>2023-06-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog"/>
+    <subtitle>GeoStyler Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/geostyler-docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023/codesprint]]></title>
+        <id>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint</id>
+        <link href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint"/>
+        <updated>2023-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From Monday, 08.05 until Friday, 12.05.2023 the second GeoStyler Code Sprint took place. 12 motivated coders from all over the world participated and provided great contributions to the GeoStyler project.]]></summary>
+        <content type="html"><![CDATA[<p>From Monday, 08.05 until Friday, 12.05.2023 the second GeoStyler Code Sprint took place. 12 motivated coders from all over the world participated and provided great contributions to the GeoStyler project.</p>
+<p>We want to thank everyone who contributed to the GeoStyler project. Thank you for your motivation and engagement, for all your great contributions, for all the ideas that came up during the code sprint and for all the fun we had during this week! You are awesome!</p>
+<p>Thank you</p>
+<p><a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>,
+<a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>,
+<a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>,
+<a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>,
+<a href="https://github.com/dnlkoch" target="_blank" rel="noopener noreferrer">@dnlkoch</a>,
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>,
+<a href="https://github.com/SchulA" target="_blank" rel="noopener noreferrer">@SchulA</a>,
+<a href="https://github.com/OSHistory" target="_blank" rel="noopener noreferrer">@OSHistory</a>,
+<a href="https://github.com/marcjansen" target="_blank" rel="noopener noreferrer">@marcjansen</a>
+and <a href="https://github.com/ahocevar" target="_blank" rel="noopener noreferrer">@ahocevar</a>.</p>
+<p><img decoding="async" loading="lazy" alt="Code Sprint Members" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-members-11c2370775d3d9f825c664258487f0c7.jpg" width="4032" height="2268" class="img_ev3q"></p>
+<br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sponsors">Sponsors<a class="hash-link" aria-label="Direct link to Sponsors" title="Direct link to Sponsors" href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#sponsors">​</a></h2>
+<p>We also want to thank the sponsors of this year's code sprint:</p>
+<p><img decoding="async" loading="lazy" alt="logo OSGeo" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/logo-osgeo-3854b29fc8bb1de4ef54f0d845a8c74e.svg" width="258" height="84" class="img_ev3q"></p>
+<!-- -->
+<img src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/logo-fossgis-5ad2394a2cc7ebf363e0442a9270a2db.png" alt="logo FOSSGIS" height="84px">
+<p>Thank you, <a href="https://www.osgeo.org/" target="_blank" rel="noopener noreferrer">OSGeo</a>, for sponsoring the social event!</p>
+<p>Thank you, <a href="https://www.fossgis.de/" target="_blank" rel="noopener noreferrer">FOSSGIS e.V.</a>, for sponsoring the catering for the whole week!</p>
+<p>We also want to thank <a href="https://www.terrestris.de/" target="_blank" rel="noopener noreferrer">terrestris GmbH &amp; Co. KG</a> for providing the facilities and handing out these great GeoStyler cups!</p>
+<p>Additional thanks to all companies that supported this event by allowing their employees to participate!</p>
+<p>All of this helped us strengthening the bonds between all participants and thereby, you play an important
+role in growing the GeoStyler community.</p>]]></content>
+    </entry>
+</feed>
