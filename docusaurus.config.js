@@ -64,8 +64,9 @@ const config = {
             position: 'right',
             items: [
               {
+                type: 'doc',
+                docId: 'components/index',
                 label: 'Components',
-                href: 'https://geostyler.github.io/geostyler/latest/index.html',
               },
               {
                 label: 'GeoStyler Style',
@@ -84,6 +85,7 @@ const config = {
             position: 'right',
             label: 'Tutorials',
           },
+          {to: 'blog', label: 'Blog', position: 'right'},
           {to: 'about', label: 'About', position: 'right'},
         ],
       },
