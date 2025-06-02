@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeostyler_site=self.webpackChunkgeostyler_site||[]).push([[472],{55513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2023/codesprint","permalink":"/geostyler-docusaurus/blog/2023/codesprint","unlisted":false,"date":"2023-06-01T00:00:00.000Z"}]}')}}]);
