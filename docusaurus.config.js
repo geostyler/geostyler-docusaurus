@@ -90,7 +90,13 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
+        logo: {
+          alt: 'OSGeo Logo',
+          src: 'img/logo-osgeo.svg',
+          href: 'https://www.osgeo.org/projects/geostyler/',
+          height: 40,
+        },
         links: [
           {
             title: 'More',
