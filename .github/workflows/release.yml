@@ -1,0 +1,58 @@
+name: Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - next
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: geostyler/geostyler-docusaurus
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources 🔰
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 24 👷🏻
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies ⏬
+        run: npm ci
+
+      - name: Build artifacts 🏗️
+        run: npm run build
+
+      - name: Release 🚀
+        uses: cycjimmy/semantic-release-action@v4.2.0
+        id: semantic
+        env:
+          # We use a PAT here since GITHUB_TOKEN does not
+          # trigger other workflows (e.g. updating gh-pages,
+          # notification to Disco
+          GITHUB_TOKEN: ${{ secrets.GH_RELEASE_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Log in to the Container registry
+        if: steps.semantic.outputs.new_release_published == 'true'
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push Docker image
+        if: steps.semantic.outputs.new_release_published == 'true'
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: |
+            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
+            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.semantic.outputs.new_release_version }}

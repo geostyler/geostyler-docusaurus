@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/geostyler/geostyler-site',
+                href: 'https://github.com/geostyler/geostyler-docusaurus',
               },
             ],
           },
