@@ -4,17 +4,192 @@
         <title>GeoStyler Blog</title>
         <link>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog</link>
         <description>GeoStyler Blog</description>
-        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[2023/codesprint]]></title>
+            <title><![CDATA[GeoStyler Code Sprint 2024]]></title>
+            <link>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint</link>
+            <guid>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint</guid>
+            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[From Monday, 17.06 until Friday, 21.06.2024 the third GeoStyler Code Sprint took place in the offices]]></description>
+            <content:encoded><![CDATA[<p>From Monday, 17.06 until Friday, 21.06.2024 the third GeoStyler Code Sprint took place in the offices
+of <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer">IGN</a> in Paris, France. 16 motivated coders from France, Germany and Switzerland
+participated and provided great contributions to the GeoStyler project.</p>
+<!-- -->
+<p>We want to thank everyone who contributed to the GeoStyler project. Thank you for your motivation and engagement,
+for all your great contributions, for all the ideas that came up during the code sprint and for all the fun
+we had during this week! You are awesome!</p>
+<p>Thank you</p>
+<p><a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>,
+<a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>,
+<a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>,
+<a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>,
+<a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>,
+<a href="https://github.com/jwkaltz" target="_blank" rel="noopener noreferrer">@jwkaltz</a>,
+<a href="https://github.com/ger-benjamin" target="_blank" rel="noopener noreferrer">@ger-benjamin</a>,
+<a href="https://github.com/linegallen" target="_blank" rel="noopener noreferrer">@linegallen</a>,
+<a href="https://github.com/saraStreit" target="_blank" rel="noopener noreferrer">@sarastreit</a>,
+<a href="https://github.com/myriamfischer" target="_blank" rel="noopener noreferrer">@myriamfischer</a>,
+<a href="https://github.com/thomasmarti" target="_blank" rel="noopener noreferrer">@thomasmarti</a>,
+<a href="https://github.com/eschuh" target="_blank" rel="noopener noreferrer">@eschuh</a>,
+<a href="https://github.com/bsteinemann" target="_blank" rel="noopener noreferrer">@bsteinemann</a>,
+<a href="https://github.com/antonellostruzzolino" target="_blank" rel="noopener noreferrer">@antonellostruzzolino</a>!</p>
+<p><img decoding="async" loading="lazy" alt="Code Sprint Members" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-members-f38018ddf0b8d156861d545e0c9a3b58.jpg" width="4032" height="2268" class="img_ev3q"></p>
+<br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sponsors">Sponsors<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#sponsors" class="hash-link" aria-label="Direct link to Sponsors" title="Direct link to Sponsors">​</a></h2>
+<p>We also want to thank the sponsors of this year's code sprint:</p>
+<!-- -->
+<img src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/logo-ign-a56dc38bc57caecafa2336af6821288a.jpg" alt="logo IGN" height="200px">
+<br>
+<!-- -->
+<img src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/logo-fossgis-5ad2394a2cc7ebf363e0442a9270a2db.png" alt="logo FOSSGIS" height="84px">
+<br>
+<p>Thank you, <a href="https://www.ign.fr/" target="_blank" rel="noopener noreferrer">IGN</a>, for hosting the code sprint and providing the fantastic catering!</p>
+<p>Thank you, <a href="https://www.fossgis.de/" target="_blank" rel="noopener noreferrer">FOSSGIS e.V.</a>, for funding the travel expenses for many of our participants!</p>
+<p>Thank you, <a href="https://pozi.com/" target="_blank" rel="noopener noreferrer">Pozi</a> and all other <a href="https://opencollective.com/geostyler" target="_blank" rel="noopener noreferrer">OpenCollective contributors</a>, for sponsoring the social event!</p>
+<p>Thank you, <a href="https://www.terrestris.de/" target="_blank" rel="noopener noreferrer">terrestris GmbH &amp; Co. KG</a>, for handing out these great GeoStyler cups!</p>
+<p>Additional thanks to all companies that supported this event by allowing their employees to participate!</p>
+<p>Without you the code sprint would not be possible and we would miss out on such a great community!</p>
+<p>So thank you,
+<a href="https://github.com/camptocamp" target="_blank" rel="noopener noreferrer">@camptocamp</a>,
+<a href="https://github.com/compassinformatics" target="_blank" rel="noopener noreferrer">@compassinformatics</a>,
+<a href="https://github.com/IGNF" target="_blank" rel="noopener noreferrer">@IGNF</a>,
+<a href="https://github.com/kanton-aargau" target="_blank" rel="noopener noreferrer">@kanton-aargau</a>,
+<a href="https://github.com/terrestris" target="_blank" rel="noopener noreferrer">@terrestris</a>!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="contributions">Contributions<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#contributions" class="hash-link" aria-label="Direct link to Contributions" title="Direct link to Contributions">​</a></h2>
+<p>During the Code Sprint, we achieved the following:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-arcgis-parser">GeoStyler ArcGIS Parser<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-arcgis-parser" class="hash-link" aria-label="Direct link to GeoStyler ArcGIS Parser" title="Direct link to GeoStyler ArcGIS Parser">​</a></h3>
+<p>One of the probably biggest and hopefully most impactful achievements is the
+introduction of the <a href="https://github.com/geostyler/geostyler-lyrx-parser" target="_blank" rel="noopener noreferrer">geostyler-lyrx-parser</a> which allows
+for parsing of ArcGIS Pro styles (.lyrx format)! The parser is based on the <a href="https://github.com/GeoCat/bridge-style" target="_blank" rel="noopener noreferrer">GeoCat/bridge-style</a>
+and was ported from Python into TypeScript. It is now integrated into the GeoStyler ecosystem, so that it integrates seamlessly with all the other existing parsers! That means that it is now possible to convert
+ArcGIS styles to QGIS, Mapbox, OpenLayers, and SLD! So far reading ArcGIS Pro styles with
+features layers, meaning point, line, polygon or text classes, with margin, padding, offset, colors and more is possible! Expressions are already implemented but need some corrections. Handling icons is a work in progress.</p>
+<p>Kudos to
+<a href="https://github.com/ger-benjamin" target="_blank" rel="noopener noreferrer">@ger-benjamin</a>,
+<a href="https://github.com/jwkaltz" target="_blank" rel="noopener noreferrer">@jwkaltz</a>,
+<a href="https://github.com/myriamfischer" target="_blank" rel="noopener noreferrer">@myriamfischer</a>,
+<a href="https://github.com/thomasmarti" target="_blank" rel="noopener noreferrer">@thomasmarti</a>,
+<a href="https://github.com/eschuh" target="_blank" rel="noopener noreferrer">@eschuh</a>,
+<a href="https://github.com/bsteinemann" target="_blank" rel="noopener noreferrer">@bsteinemann</a>.</p>
+<p>Besides that, an ArcGIS integration was created that allows for visually comparing ArcGIS styles with their SLD equivalents,
+making use of the <a href="https://github.com/geostyler/geostyler-rest" target="_blank" rel="noopener noreferrer">GeoStyler REST API</a>.</p>
+<p>Kudos to
+<a href="https://github.com/myriamfischer" target="_blank" rel="noopener noreferrer">@myriamfischer</a>,
+<a href="https://github.com/thomasmarti" target="_blank" rel="noopener noreferrer">@thomasmarti</a>,
+<a href="https://github.com/eschuh" target="_blank" rel="noopener noreferrer">@eschuh</a>,
+<a href="https://github.com/bsteinemann" target="_blank" rel="noopener noreferrer">@bsteinemann</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-qgis-plugin">GeoStyler QGIS Plugin<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-qgis-plugin" class="hash-link" aria-label="Direct link to GeoStyler QGIS Plugin" title="Direct link to GeoStyler QGIS Plugin">​</a></h3>
+<p>Making use of the <a href="https://github.com/geostyler/geostyler-cli" target="_blank" rel="noopener noreferrer">geostyler-cli</a>,
+a new QGIS Plugin called <a href="https://github.com/geostyler/geostyler-qgis-plugin" target="_blank" rel="noopener noreferrer">geostyler-qgis-plugin</a>
+was created that allows exporting layer styles from QGIS into the other formats supported by GeoStyler. In the future, we also intend
+to extend the plugin with importing capabilities, so that users are able to import other styling formats into QGIS.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler QGIS Plugin" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-qgis-plugin-e0b779d97035a21b7d2772b67c37fb6a.png" width="655" height="655" class="img_ev3q"></p>
+<p>Kudos to
+<a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-cli">GeoStyler CLI<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-cli" class="hash-link" aria-label="Direct link to GeoStyler CLI" title="Direct link to GeoStyler CLI">​</a></h3>
+<p>Dependencies in the <a href="https://github.com/geostyler/geostyler-cli" target="_blank" rel="noopener noreferrer">geostyler-cli</a> were upgraded to their latest versions. Furthermore,
+the executing commands for the different environments such as node, npx, binary executable, were harmonized. For all environments,
+the executing command will now be <code>geostyler-cli</code>!</p>
+<p>Kudos to
+<a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-style">GeoStyler-Style<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-style" class="hash-link" aria-label="Direct link to GeoStyler-Style" title="Direct link to GeoStyler-Style">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-style" target="_blank" rel="noopener noreferrer">geostyler-style</a> was extended with additional function expressions.
+The basic casting expressions <code>toNumber</code> and <code>toString</code> were added, which allow for converting values to numbers and
+strings, respectively. Additionally, <code>step</code> and <code>interpolate</code> expressions will now be supported, making it possible
+to provide categorized and interpolated values.</p>
+<p>Kudos to
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-mapbox-parser">GeoStyler Mapbox Parser<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-mapbox-parser" class="hash-link" aria-label="Direct link to GeoStyler Mapbox Parser" title="Direct link to GeoStyler Mapbox Parser">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-mapbox-parser" target="_blank" rel="noopener noreferrer">geostyler-mapbox-parser</a> now successfully reads colors as hex-codes
+as well as RGBA strings into the GeoStyler style. This works for both hardcoded color values and color values in (nested) expressions.
+Also the parser now supports the newly introduced <code>interpolate</code> expression.</p>
+<p>Kudos to
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-sld-parser">GeoStyler SLD Parser<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-sld-parser" class="hash-link" aria-label="Direct link to GeoStyler SLD Parser" title="Direct link to GeoStyler SLD Parser">​</a></h3>
+<p>The usability of the <a href="https://github.com/geostyler/geostyler-sld-parser" target="_blank" rel="noopener noreferrer">geostyler-sld-parser</a> was improved by automatically reading
+the version of a given SLD from the style itself. Through this, it is now possible to up-/downgrade SLDs while using only a
+single instance of the parser. Additionally, the geostyler-sld-parser now supports translating its error messages into multiple languages,
+which allows for easier communicating styling errors with the style editors.</p>
+<p>Kudos to
+<a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>,
+<a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-ui">GeoStyler UI<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-ui" class="hash-link" aria-label="Direct link to GeoStyler UI" title="Direct link to GeoStyler UI">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler" target="_blank" rel="noopener noreferrer">GeoStyler UI</a> was improved by adding an upload file button to the code editor.
+Additionally, the expressions UI was extended with elements for the <code>case</code> and <code>step</code> function expressions.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler UI Step Expression" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-expression-step-10f8bad899de7eff3c0014bceaa0b324.png" width="328" height="398" class="img_ev3q"></p>
+<p>Kudos to
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-visual-comparator">GeoStyler Visual Comparator<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-visual-comparator" class="hash-link" aria-label="Direct link to GeoStyler Visual Comparator" title="Direct link to GeoStyler Visual Comparator">​</a></h3>
+<p>A not-yet published tool for visually comparing different styles that were processed by GeoStyler was improved by adding
+additional styles to compare and tweaking the UI.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Visual Comparator" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-comparator-42988203e7363f057040abe481edb9d7.png" width="1911" height="1034" class="img_ev3q"></p>
+<p>Kudos to
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-homepage-design">GeoStyler Homepage Design<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-homepage-design" class="hash-link" aria-label="Direct link to GeoStyler Homepage Design" title="Direct link to GeoStyler Homepage Design">​</a></h3>
+<p>A new design concept for the GeoStyler Homepage was created that serves all static content at one place. As part of that,
+the homepage, tutorials, showcases, demo applications and more should all be directly accessible from
+the homepage. The new design is intended to better deliver the message of GeoStyler while still being easy to maintain.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Homepage Design" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-design-1ebfd3b7407413dca1e591c21ce56f25.png" width="982" height="669" class="img_ev3q"></p>
+<p>Kudos to
+<a href="https://github.com/linegallen" target="_blank" rel="noopener noreferrer">@linegallen</a>,
+<a href="https://github.com/saraStreit" target="_blank" rel="noopener noreferrer">@sarastreit</a>,
+<a href="https://github.com/antonellostruzzolino" target="_blank" rel="noopener noreferrer">@antonellostruzzolino</a>,
+<a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="esmodule-builds">ESModule Builds<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#esmodule-builds" class="hash-link" aria-label="Direct link to ESModule Builds" title="Direct link to ESModule Builds">​</a></h3>
+<p>The GeoStyler packages were harmonized and now all provide ESModule builds in their distributions. We also moved from
+webpack to vite and vitest in order to simplify our tooling.</p>
+<p>Kudos to
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-rest">GeoStyler REST<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-rest" class="hash-link" aria-label="Direct link to GeoStyler REST" title="Direct link to GeoStyler REST">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-rest" target="_blank" rel="noopener noreferrer">GeoStyler REST API</a> received some updates and now makes use
+of bun.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Rest Image" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-rest-e803206257cc5aa675728163e7df3a2b.png" width="1603" height="1046" class="img_ev3q"></p>
+<p>Kudos to
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-and-the-french-state-design-system">GeoStyler and the French State Design System<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#geostyler-and-the-french-state-design-system" class="hash-link" aria-label="Direct link to GeoStyler and the French State Design System" title="Direct link to GeoStyler and the French State Design System">​</a></h3>
+<p>IGN started working on integrating the GeoStyler UI components into applications using the
+<a href="https://www.systeme-de-design.gouv.fr/" target="_blank" rel="noopener noreferrer">French State Design System</a>,
+showcasing the customization possibilities of these components.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler in French State Design System" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-ign-design-0a2dd68c2edd54c21985f97f19235471.png" width="963" height="733" class="img_ev3q"></p>
+<p>Kudos to
+<a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="additional-achievements">Additional achievements<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#additional-achievements" class="hash-link" aria-label="Direct link to Additional achievements" title="Direct link to Additional achievements">​</a></h3>
+<p>Besides the above mentioned achievements, we also managed to upgrade dependencies, updated pipelines to
+include semantic-release and webhooks that notify our discord users about published releases,
+for many of our repositories. It is now also possible to publish beta releases in order to try out
+experimental features.</p>
+<p>Kudos to
+<a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>,
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/bsteinemann" target="_blank" rel="noopener noreferrer">@bsteinemann</a>,
+<a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="stats">Stats<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2024/codesprint#stats" class="hash-link" aria-label="Direct link to Stats" title="Direct link to Stats">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Code Sprint Stats" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2024-stats-5210ad5a1b58fcb1c596d4055e5c2934.png" width="1216" height="880" class="img_ev3q"></p>
+<p>We especially want to welcome our new contributors to the GeoStyler project! We are happy for a
+growing community and are looking forward to the future development of the GeoStyler project.</p>
+<p>Again, we want to thank everyone who participated in this Code Sprint. It was great fun and an absolute
+pleasure working with you! We are already excited to see you again on the next GeoStyler Code Sprint.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GeoStyler Code Sprint 2023]]></title>
             <link>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint</link>
             <guid>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint</guid>
             <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[From Monday, 08.05 until Friday, 12.05.2023 the second GeoStyler Code Sprint took place. 12 motivated coders from all over the world participated and provided great contributions to the GeoStyler project.]]></description>
             <content:encoded><![CDATA[<p>From Monday, 08.05 until Friday, 12.05.2023 the second GeoStyler Code Sprint took place. 12 motivated coders from all over the world participated and provided great contributions to the GeoStyler project.</p>
+<!-- -->
 <p>We want to thank everyone who contributed to the GeoStyler project. Thank you for your motivation and engagement, for all your great contributions, for all the ideas that came up during the code sprint and for all the fun we had during this week! You are awesome!</p>
 <p>Thank you</p>
 <p><a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>,
@@ -41,7 +216,131 @@ and <a href="https://github.com/ahocevar" target="_blank" rel="noopener noreferr
 <p>We also want to thank <a href="https://www.terrestris.de/" target="_blank" rel="noopener noreferrer">terrestris GmbH &amp; Co. KG</a> for providing the facilities and handing out these great GeoStyler cups!</p>
 <p>Additional thanks to all companies that supported this event by allowing their employees to participate!</p>
 <p>All of this helped us strengthening the bonds between all participants and thereby, you play an important
-role in growing the GeoStyler community.</p>]]></content:encoded>
+role in growing the GeoStyler community.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="contributions">Contributions<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#contributions" class="hash-link" aria-label="Direct link to Contributions" title="Direct link to Contributions">​</a></h2>
+<p>During the Code Sprint, we achieved the following:</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Code Sprint Stats" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-stats-759bb0430e83252d03f10e2a6935f3ed.png" width="1119" height="896" class="img_ev3q"></p>
+<br>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-cli">GeoStyler CLI<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-cli" class="hash-link" aria-label="Direct link to GeoStyler CLI" title="Direct link to GeoStyler CLI">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-cli" target="_blank" rel="noopener noreferrer">GeoStyler CLI</a> can now additionally be used as standalone executable! There is no need to install Node.js anymore, if you just want to convert between different styling formats without using the UI. The executables can be downloaded for each version from the <a href="https://github.com/geostyler/geostyler-cli/releases" target="_blank" rel="noopener noreferrer">repository</a>. We support Linux, MacOS and Windows.</p>
+<p>Besides that, some maintenance work was done on the repository and semantic-release was enabled.</p>
+<p>Kudos to <a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-converter">GeoStyler Converter<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-converter" class="hash-link" aria-label="Direct link to GeoStyler Converter" title="Direct link to GeoStyler Converter">​</a></h3>
+<p>We now have a new demo application that solely focusses on the conversion between different styling formats: <a href="https://geostyler.github.io/geostyler-converter-demo/" target="_blank" rel="noopener noreferrer">GeoStyler Converter Demo</a>. Paste a style into one of the editors, edit the style and convert it into any other format. Some final polishing is still in the making, but the GeoStyler Converter Demo can already be used. See also the <a href="https://github.com/geostyler/geostyler-converter-demo/" target="_blank" rel="noopener noreferrer">geostyler-converter-demo repository</a>.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Converter Demo" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-converter-50ec2ccea05d40c89bd575f095b1d6d1.png" width="996" height="543" class="img_ev3q"></p>
+<p>Kudos to <a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>, <a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a> and <a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-for-expressions-in-the-ui">Support for Expressions in the UI<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#support-for-expressions-in-the-ui" class="hash-link" aria-label="Direct link to Support for Expressions in the UI" title="Direct link to Support for Expressions in the UI">​</a></h3>
+<p>After setting the basement for the usage of expressions in the last code sprint in 2022, the GeoStyler UI now also supports expressions. Users are now enabled to create styling rules based on attributes of their dataset. Colors, sizes, strokes, etc. can now all be computed with values derived from the geodata itself. So if you want the size of a point representing a city being proportional to the number of its inhabitants, this can now be easily achieved. Many real-world styling challenges can now be adressed in an appropriate, compact and flexible way. And the best part of it: There is no need to write the expressions by hand. The UI provides a graphical editor just for that. Now, the parsers need to be updated to fully support this feature.</p>
+<p><img decoding="async" loading="lazy" alt="Expressions UI example" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-expressions-c7c810e6d1ba8afe4d05b574b59a1fc5.gif" width="1009" height="723" class="img_ev3q"></p>
+<p>Kudos to <a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-ui">GeoStyler UI<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-ui" class="hash-link" aria-label="Direct link to GeoStyler UI" title="Direct link to GeoStyler UI">​</a></h3>
+<p>Besides the support for expressions, the GeoStyler UI was improved in various ways. We are currently adding icons to options in dropdowns, so users can directly see what an option stands for. What was the difference again between <code>butt</code>, <code>round</code>, and <code>square</code> line caps? The answer will be directly graspable from the editor.</p>
+<p>We also cleaned up some dependencies, make use of <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">Vite</a> for creating our browser builds, improved the test performance, and upgraded to antd 5. As part of this, we replaced the windows with antd modals and did some polishing here and there.</p>
+<p>The previously introduced <code>GeoStylerContext</code> was also implemented in various components, which will simplify adjusting the GeoStyler UI to your needs.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler UI Modal Example" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-modals-866de56b645d1b62fbf8900c0a891091.gif" width="1139" height="919" class="img_ev3q"></p>
+<p>Kudos to <a href="https://github.com/dnlkoch" target="_blank" rel="noopener noreferrer">@dnlkoch</a>, <a href="https://github.com/SchulA" target="_blank" rel="noopener noreferrer">@SchulA</a>, <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a> and <a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-mapbox-parser">GeoStyler Mapbox Parser<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-mapbox-parser" class="hash-link" aria-label="Direct link to GeoStyler Mapbox Parser" title="Direct link to GeoStyler Mapbox Parser">​</a></h3>
+<p>We spent quite some time discussing the <a href="https://github.com/geostyler/geostyler-mapbox-parser" target="_blank" rel="noopener noreferrer">geostyler-mapbox-parser</a> and how we can integrate the concept of map-based styles (which mapbox is using) in addition to layer-based styles (which SLD is using) in GeoStyler. We came to the conclusion that layers in mapbox fit quite well to the idea of rules in layer-based styles. Both are entities consisting of filters, scale denominators and styling instructions. With the support for expressions in GeoStyler in particular, we should now be able to advance the development of the geostyler-mapbox-parser and make it a first class citizen in the GeoStyler ecosystem.</p>
+<p>Besides that, the geostyler-mapbox-parser was enhanced by splitting or merging styling rules where needed. A consistent style structure after parsing is still being maintained by enriching the mapbox-style with metadata.</p>
+<p>Kudos to <a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>, <a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>, <a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>, <a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>, <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a> and <a href="https://github.com/ahocevar" target="_blank" rel="noopener noreferrer">@ahocevar</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-homepage">GeoStyler Homepage<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-homepage" class="hash-link" aria-label="Direct link to GeoStyler Homepage" title="Direct link to GeoStyler Homepage">​</a></h3>
+<p>The <a href="https://geostyler.org/" target="_blank" rel="noopener noreferrer">GeoStyler homepage</a> was updated to provide better information about the idea of GeoStyler and the different tools that it provides. GeoStyler is more than just a UI library!</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Homepage Example" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-homepage-8d6e7d9876c7e0023d372718f365b1b6.png" width="1141" height="743" class="img_ev3q"></p>
+<br>
+<p>Kudos to <a href="https://github.com/OSHistory" target="_blank" rel="noopener noreferrer">@OSHistory</a>, <a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-symcore-parser">GeoStyler SymCore Parser<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-symcore-parser" class="hash-link" aria-label="Direct link to GeoStyler SymCore Parser" title="Direct link to GeoStyler SymCore Parser">​</a></h3>
+<p>We added a new parser to the GeoStyler ecosystem: the <a href="https://github.com/geostyler/geostyler-symcore-parser" target="_blank" rel="noopener noreferrer">geostyler-symcore-parser</a>. This parser will allow the conversion between geostyler-style and the new <a href="https://github.com/opengeospatial/styles-and-symbology" target="_blank" rel="noopener noreferrer">OGC Styles &amp; Symbology Models and Encodings - Part 1: Core</a> standard. For now, the parser only contains the typings of the standard, but will be implemented in the future. This parser should facilitate the switch to the new standard and will hopefully increase the adoption of it.</p>
+<p>Kudos to <a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-geoserver-plugin">GeoStyler GeoServer Plugin<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#geostyler-geoserver-plugin" class="hash-link" aria-label="Direct link to GeoStyler GeoServer Plugin" title="Direct link to GeoStyler GeoServer Plugin">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-geoserver-plugin" target="_blank" rel="noopener noreferrer">geostyler-geoserver-plugin</a> was updated to use the latest version of GeoStyler. Additionally, multiple bugs were fixed and the build artifacts are now being published on <a href="https://nexus.terrestris.de/#browse/browse:geoserver-extras:org%2Fgeoserver%2Fcommunity%2Fgs-geostyler" target="_blank" rel="noopener noreferrer">nexus.terrestris.de</a>. Instructions on how to download and use the build artifacts were added to the README.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler GeoServer Plugin" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2023-geoserver-5658b0412004143782077d88b6ed8adc.png" width="1268" height="915" class="img_ev3q"></p>
+<p>Kudos to <a href="https://github.com/dnlkoch" target="_blank" rel="noopener noreferrer">@dnlkoch</a>, <a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a> and <a href="https://github.com/marcjansen" target="_blank" rel="noopener noreferrer">@marcjansen</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="miscellaneous">Miscellaneous<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#miscellaneous" class="hash-link" aria-label="Direct link to Miscellaneous" title="Direct link to Miscellaneous">​</a></h3>
+<p>Users will now be redirected to the <a href="https://geostyler.org/" target="_blank" rel="noopener noreferrer">GeoStyler homepage</a> when going to <a href="https://geostyler.github.io/" target="_blank" rel="noopener noreferrer">geostyler.github.io</a>.</p>
+<p>The <a href="https://github.com/geostyler/geostyler-cql-parser/" target="_blank" rel="noopener noreferrer">geostyler-cql-parser</a> was fixed, so that it can be directly used without the need to add configurations to webpack.</p>
+<p>The GeoStyler repositories are now transitioning to using issue forms instead of templates. This should lower the barrier for non-technical users to create issues and thereby helping GeoStyler becoming a more welcoming community. See for example the issue form for a <a href="https://github.com/geostyler/geostyler/issues/new?assignees=jansule%2CKaiVolland&amp;labels=enhancement&amp;projects=&amp;template=feature_request.yaml" target="_blank" rel="noopener noreferrer">feature request</a>.</p>
+<p>The <a href="https://geostyler.github.io/geostyler-beginner-workshop/" target="_blank" rel="noopener noreferrer">GeoStyler Beginner Workshop</a> is currently being updated and will use Docusaurus instead of Jekyll as static site generator. The content of the workshop will also be updated in the future, to reflect the latest state of GeoStyler.</p>
+<p>The robustness of <a href="https://github.com/geostyler/geostyler-rest" target="_blank" rel="noopener noreferrer">geostyler-rest</a> was improved by better handling unknown input and output formats, or inconsistent styles.</p>
+<p>Kudos to <a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>, <a href="https://github.com/OSHistory" target="_blank" rel="noopener noreferrer">@OSHistory</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="conference-talks-and-other-media">Conference talks and other media<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2023/codesprint#conference-talks-and-other-media" class="hash-link" aria-label="Direct link to Conference talks and other media" title="Direct link to Conference talks and other media">​</a></h3>
+<p>GeoStyler will be featured on multiple talks on FOSS4G 2023.</p>
+<p>Kudos to everyone!</p>
+<p>Again, we want to thank everyone who participated in this Code Sprint. It was great fun and an absolute pleasure working with you! We are already looking forward to the next GeoStyler Code Sprint.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GeoStyler Code Sprint 2022]]></title>
+            <link>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint</link>
+            <guid>https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[From Tuesday, 07.06 until Friday, 10.06.2022 the first GeoStyler Code Sprint took place. 12 motivated coders from all over the world participated and provided great contributions to the GeoStyler project.]]></description>
+            <content:encoded><![CDATA[<p>From Tuesday, 07.06 until Friday, 10.06.2022 the first GeoStyler Code Sprint took place. 12 motivated coders from all over the world participated and provided great contributions to the GeoStyler project.</p>
+<!-- -->
+<p>We want to thank everyone who contributed to the GeoStyler project. Thank you for your motivation and engagement, for all your great contributions, for all the ideas that came up during the Code Sprint and for all the fun we had during this week! You are awesome!</p>
+<p>Thank you</p>
+<p><a href="https://github.com/krishnaglodha" target="_blank" rel="noopener noreferrer">@krishnaglodha</a>,
+<a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>,
+<a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>,
+<a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>,
+<a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>,
+<a href="https://github.com/annarieger" target="_blank" rel="noopener noreferrer">@annarieger</a>,
+<a href="https://github.com/dnlkoch" target="_blank" rel="noopener noreferrer">@dnlkoch</a>,
+<a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>,
+<a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>,
+<a href="https://github.com/chrismayer" target="_blank" rel="noopener noreferrer">@chrismayer</a>,
+<a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>,
+<a href="https://github.com/vincjo" target="_blank" rel="noopener noreferrer">@vincjo</a>
+and Navid.</p>
+<p><img decoding="async" loading="lazy" alt="Code Sprint Members" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2022-members-4773b04408c631f8fb763b59bbb8f9da.png" width="1852" height="1074" class="img_ev3q"></p>
+<p>During the Code Sprint, we achieved the following:</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Code Sprint Stats" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-codesprint-2022-stats-4954bf5af40edec94c36f1654cd082d2.png" width="1518" height="758" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-user-manual">GeoStyler User Manual<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#geostyler-user-manual" class="hash-link" aria-label="Direct link to GeoStyler User Manual" title="Direct link to GeoStyler User Manual">​</a></h3>
+<p>We now have a GeoStyler user manual, which provides a user centric description on how to style geodata with GeoStyler.</p>
+<p>The manual is still a work in progress, but the basic functionality is already documented. Check out <a href="https://geostyler.github.io/geostyler-cookbook/" target="_blank" rel="noopener noreferrer">https://geostyler.github.io/geostyler-cookbook/</a> for the current state.</p>
+<p>Kudos to <a href="https://github.com/krishnaglodha" target="_blank" rel="noopener noreferrer">@krishnaglodha</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-cardlayout">GeoStyler CardLayout<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#geostyler-cardlayout" class="hash-link" aria-label="Direct link to GeoStyler CardLayout" title="Direct link to GeoStyler CardLayout">​</a></h3>
+<p>In October 2021, a concept for an additional layout for the <a href="https://github.com/geostyler/geostyler" target="_blank" rel="noopener noreferrer">GeoStyler UI</a> was created and main features were implemented. This layout omits the use of windows and thereby provides a clean and mobile-friendly look. During the Code Sprint, the implementation could be finalized, and the new layout can be used via the <code>&lt;CardStyle /&gt;</code> component.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler Card Layout Example" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-card-layout-hp-1ca2e4b4b64582ee97ccd196b0647d93.gif" width="1308" height="1098" class="img_ev3q"></p>
+<p>Kudos to <a href="https://github.com/annarieger" target="_blank" rel="noopener noreferrer">@annarieger</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-geoserver-plugin">GeoStyler GeoServer Plugin<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#geostyler-geoserver-plugin" class="hash-link" aria-label="Direct link to GeoStyler GeoServer Plugin" title="Direct link to GeoStyler GeoServer Plugin">​</a></h3>
+<p>Multiple fixes and improvements were applied to the <a href="https://docs.geoserver.org/main/en/user/community/geostyler/index.html" target="_blank" rel="noopener noreferrer">GeoStyler community extension for GeoServer</a>. Tests were added, deploy pipelines created, the overall integration into GeoServer was improved and a docker based Dev-Setup was created. Also, the extension will now be served under the dedicated repository <a href="https://github.com/geostyler/geostyler-geoserver-plugin" target="_blank" rel="noopener noreferrer">geostyler-geoserver-plugin</a>.</p>
+<p><img decoding="async" loading="lazy" alt="GeoStyler GeoServer Plugin" src="https://your-docusaurus-test-site.com/geostyler-docusaurus/assets/images/geostyler-geoserver-plugin-32a6dd0f903dd127bf7cd155ce765693.png" width="1275" height="750" class="img_ev3q"></p>
+<p>Kudos to <a href="https://github.com/dnlkoch" target="_blank" rel="noopener noreferrer">@dnlkoch</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dev-experience--dev-setup">Dev-Experience / Dev-Setup<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#dev-experience--dev-setup" class="hash-link" aria-label="Direct link to Dev-Experience / Dev-Setup" title="Direct link to Dev-Experience / Dev-Setup">​</a></h3>
+<p>Dev-Experience and Dev-Setup were improved in many different ways. We now have a better support for developing on windows.
+Also, the performance for building and working with our interactive documentation was improved drastically.</p>
+<p>Kudos to <a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>, <a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>, <a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>, <a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>, <a href="https://github.com/dnlkoch" target="_blank" rel="noopener noreferrer">@dnlkoch</a> and <a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-for-expressions">Support for Expressions<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#support-for-expressions" class="hash-link" aria-label="Direct link to Support for Expressions" title="Direct link to Support for Expressions">​</a></h3>
+<p>For quite a while, we were working on the support of expressions in GeoStyler. Through these, it is possible to set styling properties attributively and feature-based, which allows for more compact and dynamic styles. For example, color values can be calculated based on a function that uses attributes of the dataset as function arguments. So instead of providing a single rule for each possible color value respectively, users can now provide a single rule that describes the color value for all features based on a single expression.</p>
+<p>Expressions are now supported in the <a href="https://github.com/geostyler/geostyler-style/" target="_blank" rel="noopener noreferrer">geostyler-style</a> format and was already implemented for the <a href="https://github.com/geostyler/geostyler-cql-parser/" target="_blank" rel="noopener noreferrer">geostyler-cql-parser</a> and the <a href="https://github.com/geostyler/geostyler-sld-parser/" target="_blank" rel="noopener noreferrer">geostyler-sld-parser</a>. We will work on supporting other parsers in the future.</p>
+<p>Kudos to <a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="french-translations">French translations<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#french-translations" class="hash-link" aria-label="Direct link to French translations" title="Direct link to French translations">​</a></h3>
+<p>GeoStyler now also supports French.</p>
+<p>Kudos to <a href="https://github.com/slafayIGN" target="_blank" rel="noopener noreferrer">@slafayIGN</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-rest-api">GeoStyler REST API<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#geostyler-rest-api" class="hash-link" aria-label="Direct link to GeoStyler REST API" title="Direct link to GeoStyler REST API">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-rest" target="_blank" rel="noopener noreferrer">GeoStyler REST API</a> was enhanced by providing a new API endpoint <code>GET /geostyler-rest/api/versions</code> that gives information about the versions of the used parsers. Besides that, multiple bugfixes and minor improvements were done.</p>
+<p>Kudos to <a href="https://github.com/chrismayer" target="_blank" rel="noopener noreferrer">@chrismayer</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="unsupported-properties">Unsupported properties<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#unsupported-properties" class="hash-link" aria-label="Direct link to Unsupported properties" title="Direct link to Unsupported properties">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler" target="_blank" rel="noopener noreferrer">GeoStyler UI</a> as well as the <a href="https://github.com/geostyler/geostyler-openlayers-parser" target="_blank" rel="noopener noreferrer">geostyler-openlayers-parser</a> and <a href="https://github.com/geostyler/geostyler-sld-parser" target="_blank" rel="noopener noreferrer">geostyler-sld-parser</a> make now use of the <code>unsupportedProperties</code> interface. Due to these changes, the UI now gives hints about properties that were used in the UI but are not supported by a specific parser.</p>
+<p>Kudos to <a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mapfile-validation">Mapfile validation<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#mapfile-validation" class="hash-link" aria-label="Direct link to Mapfile validation" title="Direct link to Mapfile validation">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-mapfile-parser" target="_blank" rel="noopener noreferrer">geostyler-mapfile-parser</a> will soon be able to validate mapfiles.</p>
+<p>Kudos to <a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-demo">GeoStyler Demo<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#geostyler-demo" class="hash-link" aria-label="Direct link to GeoStyler Demo" title="Direct link to GeoStyler Demo">​</a></h3>
+<p>The <a href="https://geostyler.github.io/geostyler-demo/" target="_blank" rel="noopener noreferrer">demo application</a> was improved in multiple ways. The <code>&lt;PreviewMap /&gt;</code> component now enables zooming and panning in order to verify proper scaleDenominator configuration. The demo now also provides feedback when loading style and/or data. Furthermore, we got rid of using create-react-app and provided our own webpack configuration which facilitates working with linked dependencies.</p>
+<p>Kudos to <a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a>, <a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>, <a href="https://github.com/hwbllmnn" target="_blank" rel="noopener noreferrer">@hwbllmnn</a> and <a href="https://github.com/jansule" target="_blank" rel="noopener noreferrer">@jansule</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="geostyler-mapbox-parser">GeoStyler Mapbox Parser<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#geostyler-mapbox-parser" class="hash-link" aria-label="Direct link to GeoStyler Mapbox Parser" title="Direct link to GeoStyler Mapbox Parser">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-mapbox-parser" target="_blank" rel="noopener noreferrer">geostyler-mapbox-parser</a> was improved by fixing the opacity handling for MarkSymbolizer and harmonizing its behaviour with the other parsers.</p>
+<p>Kudos to <a href="https://github.com/ocruze" target="_blank" rel="noopener noreferrer">@ocruze</a> and <a href="https://github.com/pprev94" target="_blank" rel="noopener noreferrer">@pprev94</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="refactorings">Refactorings<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#refactorings" class="hash-link" aria-label="Direct link to Refactorings" title="Direct link to Refactorings">​</a></h3>
+<p>All class based React components were refactored into the more compact and better maintainable function based components.</p>
+<p>Kudos to <a href="https://github.com/kaivolland" target="_blank" rel="noopener noreferrer">@kaivolland</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bugfixes">Bugfixes<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#bugfixes" class="hash-link" aria-label="Direct link to Bugfixes" title="Direct link to Bugfixes">​</a></h3>
+<p>The <a href="https://github.com/geostyler/geostyler-cli" target="_blank" rel="noopener noreferrer">geostyler-cli</a> now also works properly on windows.</p>
+<p>Kudos to <a href="https://github.com/geographika" target="_blank" rel="noopener noreferrer">@geographika</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="conference-talks-and-other-media">Conference talks and other media<a href="https://your-docusaurus-test-site.com/geostyler-docusaurus/blog/2022/codesprint#conference-talks-and-other-media" class="hash-link" aria-label="Direct link to Conference talks and other media" title="Direct link to Conference talks and other media">​</a></h3>
+<p>GeoStyler will be featured on multiple talks on FOSS4G 2022. Also, there will be videos published on how to work with GeoStyler.</p>
+<p>Kudos to everyone!</p>
+<p>Again, we want to thank everyone who participated in this Code Sprint. It was great fun and an absolute pleasure working with you!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
