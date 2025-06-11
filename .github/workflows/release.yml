@@ -35,7 +35,8 @@ jobs:
         env:
           # We use a PAT here since GITHUB_TOKEN does not
           # trigger other workflows (e.g. updating gh-pages,
-          # notification to Disco
+          # notification to Discord, etc.)
+          # Those tokens are organization level secrets
           GITHUB_TOKEN: ${{ secrets.GH_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 

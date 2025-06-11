@@ -131,7 +131,7 @@ Kudos to [@dnlkoch](https://github.com/dnlkoch), [@hwbllmnn](https://github.com/
 
 ### Miscellaneous
 
-Users will now be redirected to the [GeoStyler homepage](https://geostyler.org/) when going to [geostyler.github.io](geostyler.github.io/).
+Users will now be redirected to the [GeoStyler homepage](https://geostyler.org/) when going to [geostyler.github.io](https//geostyler.github.io/).
 
 The [geostyler-cql-parser](https://github.com/geostyler/geostyler-cql-parser/) was fixed, so that it can be directly used without the need to add configurations to webpack.
 

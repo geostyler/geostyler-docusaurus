@@ -31,13 +31,8 @@ export default function Home(): JSX.Element {
           <div />
           <div>
             <p>
-            Welcome to the <strong>GeoStyler Beginner Workshop</strong>. This workshop will give you a first overview of the GeoStyler, a web-based tool for interactive styling of geographic data.
+            Welcome to the GeoStyler website. Here you will find documentations, tutorials, demos...
             </p>
-            <p>
-            In this workshop, we will create a basic application that allows users to style geographic data via a graphical user interface.
-            </p>
-            <p>The final application will look like this:</p>
-            <img src="/assets/img/geostyler-workshop.gif"/>
             
           </div>
           <div />
